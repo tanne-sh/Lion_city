@@ -1,24 +1,31 @@
-# Compiled Object files
-*.o
-*.obj
+  
+# Created by https://www.gitignore.io/api/windows
+# Edit at https://www.gitignore.io/?templates=windows
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
 
-# Compiled Static libraries
-*.a
-*.lib
+# Dump file
+*.stackdump
 
-# Executables
-*.exe
+# Folder config file
+[Dd]esktop.ini
 
-# DUB
-.dub
-docs.json
-__dummy.html
-docs/
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
 
-# Code coverage
-*.lst
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# End of https://www.gitignore.io/api/windows
