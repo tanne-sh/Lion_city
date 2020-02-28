@@ -120,3 +120,23 @@ body {
 #modal {
   display: none;
 }
+
+.slider {
+  background-image: url(../image/slider-fon.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 500px;
+}
+.container {
+}
+.slider__inner {
+}
+.slider__item {
+}
+.slider__title {
+}
+.slider__text {
+}
+.slider__btn {
+}
