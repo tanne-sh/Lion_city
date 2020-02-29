@@ -128,13 +128,24 @@ body {
   background-position: center;
   min-height: 500px;
 }
+
 .container {
 }
 .slider__inner {
 }
-.slider__item {
+.slider__item-content {
+  text-align: center;
+  padding-top: 110px;
+  max-width: 665px;
+  margin: 0 auto;
 }
 .slider__title {
+  text-transform: uppercase;
+  font-size: 30px;
+  line-height: 36px;
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.5px;
 }
 .slider__text {
 }
