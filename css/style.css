@@ -184,6 +184,8 @@ body {
   width: 40px;
   height: 40px;
   border: 1px solid #ffffff;
+  background-color: transparent;
+  cursor: pointer;
 }
 .slick-btn::before {
   position: absolute;
@@ -191,10 +193,14 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: "icomoon";
+  color: #fff;
 }
 
 .slick-next::before {
   content: "\f105";
+}
+.slick-prev::before {
+  content: "\f104";
 }
 
 .slick-next {
