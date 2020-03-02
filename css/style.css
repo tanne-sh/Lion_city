@@ -151,7 +151,7 @@ body {
   margin-bottom: 50px;
 }
 
-.default-btn{
+.default-btn {
   display: inline-block;
   font-size: 14px;
   line-height: 24px;
@@ -164,7 +164,7 @@ body {
   position: relative;
   z-index: 2;
 }
-.default-btn::after{
+.default-btn::after {
   content: "\f105";
   font-family: "icomoon";
   position: absolute;
@@ -173,31 +173,33 @@ body {
   right: -12px;
 }
 
-.slider__inner{
+.slider__inner {
   position: relative;
 }
 
-.slick-btn{
+.slick-btn {
   position: absolute;
-  top:70%;
+  top: 70%;
   z-index: 3;
   width: 40px;
   height: 40px;
   border: 1px solid #ffffff;
-  
-} 
-.slick-btn::before{
+}
+.slick-btn::before {
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50% -50%);
+  transform: translate(-50%, -50%);
+  font-family: "icomoon";
 }
 
-.slick-next{
+.slick-next::before {
+  content: "\f105";
+}
+
+.slick-next {
   right: 0;
-
 }
-.slick-prev{
+.slick-prev {
   left: 0;
-
 }
