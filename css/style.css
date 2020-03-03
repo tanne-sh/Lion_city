@@ -370,8 +370,7 @@ body {
 
 .form__box-inner label,
 .form__box-inner input,
-.form__box-inner textarea,
-.form__box-inner select {
+.form__box-inner textarea {
   display: block;
   width: 100%;
 }
@@ -391,9 +390,19 @@ body {
 
 .form__box-inner select {
   outline: none;
+  padding-left: 17px;
+}
+
+.form__box-inner .jq-selectbox.jqselect {
+  display: block;
+  width: 100%;
+}
+
+.form__box-inner .jq-selectbox__select {
   height: 40px;
   border: 1px solid #e6e6e6;
-  padding-left: 17px;
+  /* background: transparent; */
+  /* border-radius: 0; */
 }
 
 .form__box-inner textarea {
