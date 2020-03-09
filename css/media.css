@@ -1,0 +1,11 @@
+@media (max-width: 700px) {
+  .header__btn {
+    float: none;
+  }
+  .header.contacts {
+    text-align: center;
+  }
+  .header__btn::before {
+    display: none;
+  }
+}
