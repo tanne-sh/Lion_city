@@ -29,7 +29,7 @@ body {
 }
 
 .header__top {
-  background-color: #303030;
+  background-color: #211f36;
 }
 
 .header__btn {
@@ -122,7 +122,7 @@ body {
 }
 
 .slider {
-  background-image: url(../image/slider-fon.jpg);
+  background-image: url(../image/slider-fon33.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
