@@ -2,10 +2,20 @@
   .header__btn {
     float: none;
   }
-  .header.contacts {
+  .header__contacts {
     text-align: center;
   }
   .header__btn::before {
     display: none;
+  }
+}
+@media (max-width: 400px) {
+  .header__btn::before {
+    display: block;
+  }
+}
+@media (max-width: 375px) {
+  .header_email {
+    padding-right: 30px;
   }
 }
