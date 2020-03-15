@@ -11,6 +11,13 @@
   .form__inner {
     background-image: none;
   }
+  .news__inner {
+    display: block;
+  }
+  .news__slider {
+    max-width: 100%;
+    margin-bottom: 90px;
+  }
 }
 
 @media (max-width: 900px) {
