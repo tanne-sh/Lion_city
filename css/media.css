@@ -47,6 +47,16 @@
   .form__box-inner .jq-selectbox__select {
     margin-bottom: 10px;
   }
+  .form {
+    padding-bottom: 25px;
+  }
+  .advanteges__inner {
+    display: block;
+  }
+  .advanteges-item {
+    max-width: 100%;
+    margin-bottom: 30px;
+  }
 }
 
 @media (max-width: 700px) {
@@ -97,13 +107,15 @@
   .header__btn::before {
     display: block;
   }
-}
-@media (max-width: 400px) {
+
   .slider__title {
     font-size: 24px;
   }
   .slider__text {
     font-size: 16px;
+  }
+  .advanteges-item {
+    padding: 0;
   }
 }
 @media (max-width: 375px) {
