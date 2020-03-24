@@ -32,6 +32,22 @@
     float: left;
     margin-right: 50px;
   }
+  .news {
+    padding-bottom: 60px;
+  }
+}
+
+@media (max-width: 1050px) {
+  .footer__inner {
+    display: block;
+  }
+  .footer__map {
+    max-width: 100%;
+  }
+  .footer__info {
+    max-width: 500px;
+    margin-bottom: 25px;
+  }
 }
 
 @media (max-width: 900px) {
@@ -92,6 +108,9 @@
   }
   .header__btn::before {
     display: none;
+  }
+  .footer__info .header__btn::before {
+    display: block;
   }
   .header__btn-menu {
     display: block;

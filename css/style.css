@@ -640,8 +640,17 @@ body {
 .footer__info {
   max-width: 360px;
 }
+
+.footer__map {
+  padding-top: 10px;
+  max-width: 630px;
+  width: 100%;
+}
+.footer__map iframe {
+  width: 100%;
+}
 .footer__title {
-  font-size: 16;
+  font-size: 16px;
   font-weight: 500;
   font-family: "Roboto", sans-serif;
   color: #fff;
@@ -684,9 +693,6 @@ body {
   left: 3px;
 }
 
-.footer__map {
-  padding-top: 10px;
-}
 .footer__copy {
   background-color: #25233b;
   text-align: center;
