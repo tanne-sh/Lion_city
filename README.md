@@ -1,4 +1,4 @@
-https://tanne-sh.github.io/Lionsity/.
+https://tanne-sh.github.io/Lion_city/.
 
 One-page website with adaptive version
 
