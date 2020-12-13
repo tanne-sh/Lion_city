@@ -3,5 +3,6 @@ https://tanne-sh.github.io/Lionsity/.
 One-page website with adaptive version
 
 
-![screenshot-tanne-sh github io-2020 05 10-07_34_07](https://user-images.githubusercontent.com/61487027/81490967-04ffaf00-9291-11ea-8b02-5e906c6a8d4d.png)
-![image 1](https://user-images.githubusercontent.com/61487027/81490971-0af59000-9291-11ea-9014-78153e887b2f.png)
+![lion_city](https://user-images.githubusercontent.com/61487027/102011471-0d4f2980-3d4d-11eb-8f32-c18aa3be682e.png)
+![lion_city_mobile](https://user-images.githubusercontent.com/61487027/102011472-0e805680-3d4d-11eb-84a0-1bff2685d296.png)
+
